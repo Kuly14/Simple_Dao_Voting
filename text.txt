@@ -1,0 +1,9 @@
+Voter will be able to register for the vote when he sendes tokens that he has to the contract he recieves that much power for the vote. 
+
+
+Best would be if it was made up token. 
+
+This version will be with eth only.
+
+The function will take the amount that the voter sends stores the power and sends the tokens back
+
