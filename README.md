@@ -1,6 +1,6 @@
-Dao experiment:
+This project was created with Brownie-ETH.
 
-This contract allows any dao to vote on any proposals;
+This contract allows any dao to vote on any proposals
 
 First you have to start the voting process by calling the startVoting function. This function will set the time that the community will 
 be able to register proposals and vote;
